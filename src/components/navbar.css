@@ -1,0 +1,28 @@
+.navbar{
+    display:flex;
+    justify-content: center;
+    word-spacing: 1rem;
+    background-color:rgb(13, 13, 74);
+    color: white;
+    padding:10px;
+    margin-bottom: 25px;
+}
+
+.a{
+    width:25%;
+    margin-left:15px;
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    width:25%;
+    margin-left:15px;
+    color: white;
+    text-decoration: none;
+}
+.title
+{
+  text-align: left;
+}
+
